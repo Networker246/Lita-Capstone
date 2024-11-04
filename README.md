@@ -1,1 +1,2 @@
 # Lita-Capstone
+## Project Overview
