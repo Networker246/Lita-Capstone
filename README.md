@@ -81,13 +81,14 @@
 The analysis will involve deep exploration of the data to evaluate keys questions 
 that are useful for effective decision-making, these includes:
 retrieve the total sales for each product category.
- o finding the number of sales transactions in each region.
- o finding the highest-selling product by total sales value.
- o calculating total revenue per product.
- o summarizing monthly sales totals for the current year.
- o finding the top 5 customers by total purchase amount.
- o calculating the percentage of total sales contributed by each region.
- o identifying products with no sales in the last quarter.
+
+  1. Finding the number of sales transactions in each region.
+  2. Finding the highest-selling product by total sales value.
+  3. Calculating total revenue per product.
+  4. Summarizing monthly sales totals for the current year.
+  5. Finding the top 5 customers by total purchase amount.
+  6. Calculating the percentage of total sales contributed by each region.
+  7. Identifying products with no sales in the last quarter.
 
 ### SQL
 ```
