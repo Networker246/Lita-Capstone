@@ -3,6 +3,18 @@
 
 [PROJECT OVERVIEW](#PROJECT-OVERVIEW)
 
+[DATA DESCRIPTION](#data-description)
+
+ [DashBoard Review](#DashBoard-Review)
+
+ [DATA SOURCES](data-sources)
+
+ [TOOLS USED](#tools-used)
+
+ [DATA CLEANING AND PREPARATION](#data-cleaning-and-preparation)
+
+ [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+ 
 ## ~ PROJECT OVERVIEW:
 ---
  This project analyses the sales record of a Retail Store, and it requests for cleaning and removing duplicates for proper exploration of sales Data to uncover key insights such as 
@@ -22,7 +34,7 @@
  6. Unit Price
  7. Total Sales
 
-## ~DashBoard REVIEW:
+## ~ DashBoard Review:
 ---
  . Products: The goods sold in the store
  . Region: The Regional branches of the store  (North, East, South, West) 
