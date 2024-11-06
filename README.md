@@ -162,7 +162,8 @@ Select Distinct product
 From [dbo].[Book4]
 where product Not In(select product
 from [dbo].[Book4]
-where OrderDate>= DateAdd(quarter,-1,GetDate()) and OrderDate< GetDate()); ```
+where OrderDate>= DateAdd(quarter,-1,GetDate()) and OrderDate< GetDate()); 
+```
 
        
 
